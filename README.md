@@ -1,2 +1,2 @@
-# quickreply-thunderbird-addon
-Quickly send common replies with Thunderbird
+# QuickReply Thunderbird Add-on
+Quickly send common replies with Thunderbird. Work in progress.
