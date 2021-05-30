@@ -1,0 +1,31 @@
+{
+  "name": "__MSG_extensionName__",
+  "description": "__MSG_extensionDescription__",
+  "version": "1.0",
+  "author": "Arndt H. Ziegler",
+  "homepage_url": "https://arndtziegler.de",
+  "applications": {
+    "gecko": {
+      "id": "tb-quickreply-addon@arndtziegler.de",
+      "strict_min_version": "78.0"
+    }
+  },
+  "permissions": [
+    "compose",
+    "messagesRead",
+    "storage"
+  ],
+  "background": {
+    "scripts": [
+      "background/background.js"
+    ]
+  },
+  "message_display_action": {
+    "default_title": "__MSG_quickReplyButton__"
+  },
+  "options_ui": {
+    "page": "options/options.html"
+   },
+  "default_locale": "de",
+  "manifest_version": 2
+}

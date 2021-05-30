@@ -1,0 +1,16 @@
+{
+    "extensionName": {
+        "message": "QuickReply",
+        "description": "Add-On Name"
+     },
+     "extensionDescription": {
+        "message": "Reply to mails with predefined text",
+        "description": "Add-On Description"
+     },
+     "replyTextLabel": {
+        "message": "Reply text:"
+     },
+    "quickReplyButton": {
+        "message": "QuickReply"
+    }
+}

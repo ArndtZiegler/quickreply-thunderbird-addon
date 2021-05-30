@@ -1,0 +1,16 @@
+{
+    "extensionName": {
+        "message": "Schnellantwort",
+        "description": "Add-On Name"
+     },
+     "extensionDescription": {
+        "message": "Mails mit voreingestelltem Antworttext schneller beantworten",
+        "description": "Add-On Beschreibung"
+     },
+     "replyTextLabel": {
+        "message": "Antworttext:"
+     },
+    "quickReplyButton": {
+        "message": "Schnellantwort"
+    }
+}
